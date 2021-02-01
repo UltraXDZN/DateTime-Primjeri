@@ -1,0 +1,10 @@
+D:\Zadace\DateTime\MonthKalendarKontrola\MonthKalendarKontrola\bin\Debug\MonthKalendarKontrola.exe.config
+D:\Zadace\DateTime\MonthKalendarKontrola\MonthKalendarKontrola\bin\Debug\MonthKalendarKontrola.exe
+D:\Zadace\DateTime\MonthKalendarKontrola\MonthKalendarKontrola\bin\Debug\MonthKalendarKontrola.pdb
+D:\Zadace\DateTime\MonthKalendarKontrola\MonthKalendarKontrola\obj\Debug\MonthKalendarKontrola.csprojAssemblyReference.cache
+D:\Zadace\DateTime\MonthKalendarKontrola\MonthKalendarKontrola\obj\Debug\MonthKalendarKontrola.Properties.Resources.resources
+D:\Zadace\DateTime\MonthKalendarKontrola\MonthKalendarKontrola\obj\Debug\MonthKalendarKontrola.csproj.GenerateResource.cache
+D:\Zadace\DateTime\MonthKalendarKontrola\MonthKalendarKontrola\obj\Debug\MonthKalendarKontrola.csproj.CoreCompileInputs.cache
+D:\Zadace\DateTime\MonthKalendarKontrola\MonthKalendarKontrola\obj\Debug\MonthKalendarKontrola.exe
+D:\Zadace\DateTime\MonthKalendarKontrola\MonthKalendarKontrola\obj\Debug\MonthKalendarKontrola.pdb
+D:\Zadace\DateTime\MonthKalendarKontrola\MonthKalendarKontrola\obj\Debug\MonthKalendarKontrola.Zaglavlje.resources

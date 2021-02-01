@@ -1,0 +1,10 @@
+D:\Zadace\DateTime\DateTimePickerKontrola\DateTimePickerKontrola\bin\Debug\DateTimePickerKontrola.exe.config
+D:\Zadace\DateTime\DateTimePickerKontrola\DateTimePickerKontrola\bin\Debug\DateTimePickerKontrola.exe
+D:\Zadace\DateTime\DateTimePickerKontrola\DateTimePickerKontrola\bin\Debug\DateTimePickerKontrola.pdb
+D:\Zadace\DateTime\DateTimePickerKontrola\DateTimePickerKontrola\obj\Debug\DateTimePickerKontrola.csprojAssemblyReference.cache
+D:\Zadace\DateTime\DateTimePickerKontrola\DateTimePickerKontrola\obj\Debug\DateTimePickerKontrola.Form1.resources
+D:\Zadace\DateTime\DateTimePickerKontrola\DateTimePickerKontrola\obj\Debug\DateTimePickerKontrola.Properties.Resources.resources
+D:\Zadace\DateTime\DateTimePickerKontrola\DateTimePickerKontrola\obj\Debug\DateTimePickerKontrola.csproj.GenerateResource.cache
+D:\Zadace\DateTime\DateTimePickerKontrola\DateTimePickerKontrola\obj\Debug\DateTimePickerKontrola.csproj.CoreCompileInputs.cache
+D:\Zadace\DateTime\DateTimePickerKontrola\DateTimePickerKontrola\obj\Debug\DateTimePickerKontrola.exe
+D:\Zadace\DateTime\DateTimePickerKontrola\DateTimePickerKontrola\obj\Debug\DateTimePickerKontrola.pdb

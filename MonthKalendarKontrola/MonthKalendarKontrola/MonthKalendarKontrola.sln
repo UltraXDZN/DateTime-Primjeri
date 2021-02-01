@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonthKalendarKontrola", "MonthKalendarKontrola.csproj", "{20EA5AE2-A1B6-445E-A039-B7E08F63F13C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20EA5AE2-A1B6-445E-A039-B7E08F63F13C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EA5AE2-A1B6-445E-A039-B7E08F63F13C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EA5AE2-A1B6-445E-A039-B7E08F63F13C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EA5AE2-A1B6-445E-A039-B7E08F63F13C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {753A9323-80B0-453D-B379-43D2635B9A55}
+	EndGlobalSection
+EndGlobal
